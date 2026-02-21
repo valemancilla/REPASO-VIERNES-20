@@ -1,9 +1,3 @@
-USE clinica_universitaria;
-
--- ============================================================
--- CRUD: CENTRO_ASISTENCIAL
--- (equivalente al SEDES del profesor)
--- ============================================================
 
 DELIMITER $$
 DROP PROCEDURE IF EXISTS sp_InsertarCentroAsistencial$$

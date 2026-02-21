@@ -1,9 +1,3 @@
-USE clinica_universitaria;
-
--- ============================================================
--- CRUD: REGISTRO_PACIENTE
--- (equivalente al PACIENTES del profesor)
--- ============================================================
 
 DELIMITER $$
 DROP PROCEDURE IF EXISTS sp_InsertarRegistroPaciente$$
